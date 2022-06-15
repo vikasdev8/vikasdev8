@@ -5,7 +5,7 @@
 <br/>
 <img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/vikasmern_oGkojhHNf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655288043646"/>
 
-# <div> Hi <span> <img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/waving-hand-joypixels_ykUd8i1bg.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1655288386440" width="120px"/></span>, I'm <span style="font-weight: bold">Vikas Verma</span> </div>
+# <div> Hi <span> <img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/waving-hand-joypixels_ykUd8i1bg.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1655288386440" width="80px"/></span>, I'm <span style="font-weight: bold">Vikas Verma</span> </div>
 
 
 ### I'm a passionate Full Stack <span style="font-weight: bold"> MERN</span> Developer from India
