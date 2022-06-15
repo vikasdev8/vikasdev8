@@ -18,7 +18,7 @@
 * 📫 How to reach me https://mevikas.herokuapp.com
 * ⚡ Fun fact I love coding and I'm a quick learner.
 <br/>
-# <span> 🚀 Technologies I know </span>
+# 🚀 Technologies I know 
 * HTML, CSS, Javascript, Typescript
 * MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 * Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Sass, Styled components)
