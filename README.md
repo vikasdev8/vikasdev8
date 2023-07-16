@@ -22,13 +22,15 @@
 # <span>🚀 Technologies I know </span>
 
 * HTML, CSS, Javascript, Typescript
-* MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-* Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Sass, Styled components)
+* MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs, Mongoose)
+* Libraries In Frontend (Redux, React-Redux, Redux-Toolkit, RTK Query, Redux-Thunk, React-Router-Dom, React-Hook-Form, Axios, Fetch, Font Awesome, SVG)
+* Libraries In Backend (Multer, Formidable, Middlewares in Express, OOPs, Cloudnary, ImageKit, Error Handling, CORS, User authentication, nodemailer, data Validator, fast-two-sms,  )
+* Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Sass, Styled components, React-Reveal, React-Spring)
 * Stripe, Razorpay (Payments)
 * Databases (MongoDB, PostgreSQL)
 * Project Management (git, Github)
 * Design (Figma, Canva, Photoshop, Lightroom)
-* Deployment (Vercel,  Heroku,  Netlify)
+* Deployment (Vercel,  Heroku,  Netlify, AWS, AWS-EC2)
 <br/>
 
 
