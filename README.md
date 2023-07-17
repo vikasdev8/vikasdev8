@@ -3,7 +3,7 @@
 <!-- <img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/giphy_Tg3Mbv9LO.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1655284621025"/> -->
 
 <br/>
-<img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/vikasmern_oGkojhHNf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655288043646"/>
+<img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/vikasmern_3CwqCahaC.jpg?updatedAt=1689583858320"/>
 
 # <div> Hi <span> <img src="https://ik.imagekit.io/iwiqf3n5na7/Resume/waving-hand-joypixels_ykUd8i1bg.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1655288386440" width="80px"/></span>, I'm <span style="font-weight: bold">Vikas Verma</span> </div>
 
